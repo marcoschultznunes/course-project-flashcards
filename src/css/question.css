@@ -1,0 +1,12 @@
+#question-container{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#question{
+    color: white;
+    font-family: arial;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: #000 0 0 10px;
+}
